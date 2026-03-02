@@ -1,0 +1,26 @@
+:root {
+  --text-preset-1-font-family: "Outfit", Helvetica;
+  --text-preset-1-font-weight: 700;
+  --text-preset-1-font-size: 22px;
+  --text-preset-1-letter-spacing: 0px;
+  --text-preset-1-line-height: 120.00000476837158%;
+  --text-preset-1-font-style: normal;
+  --text-preset-2-font-family: "Outfit", Helvetica;
+  --text-preset-2-font-weight: 400;
+  --text-preset-2-font-size: 15px;
+  --text-preset-2-letter-spacing: 0px;
+  --text-preset-2-line-height: 139.9999976158142%;
+  --text-preset-2-font-style: normal;
+  --card-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
+  --variables-color-slate-900: rgba(31, 49, 79, 1);
+  --variables-color-slate-500: rgba(104, 119, 141, 1);
+  --variables-color-slate-300: rgba(213, 225, 239, 1);
+  --variables-color-blue-600: rgba(44, 125, 250, 1);
+  --variables-color-blue-500: rgba(54, 133, 255, 1);
+  --variables-color-white: rgba(255, 255, 255, 1);
+  --variables-spacing-500: 40px;
+  --variables-spacing-300: 24px;
+  --variables-spacing-200: 16px;
+  --variables-font-size-text-preset-1: 22px;
+  --variables-font-size-text-preset-2: 15px;
+}
