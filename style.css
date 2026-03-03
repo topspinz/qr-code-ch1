@@ -17,7 +17,7 @@ p {
   background-color: white;
 
 }
-.card h1 {
+.card h2 {
   font-size: 22px;
   color: #1F314F;
   font-weight: 700;
@@ -26,7 +26,7 @@ p {
 }
 
 /*layout */
-h1 {
+.card h2 {
   margin: 0;
 }
 p{
